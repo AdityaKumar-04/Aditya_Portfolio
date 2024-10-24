@@ -63,7 +63,7 @@ export default function Footer() {
   return (
     <div className='derk:w-full text-white bg-[#000]'>
       <div className='flex justify-center items-center flex-col py-9'>
-        <h1 className='text-5xl'>Foolish Developer</h1>
+        <h1 className='text-5xl'>FullStack Developer</h1>
         <p className="w-[25rem] text-center pt-5 text-sm break-words sm:w-[65rem] md:text-xl">As a full-stack developer, I excel at creating comprehensive
           solutions that integrate front-end and back-end technologies seamlessly. By leveraging
           modern frameworks like React and Node.js, I build scalable and efficient
